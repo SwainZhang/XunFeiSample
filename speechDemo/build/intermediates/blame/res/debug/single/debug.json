@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/build/intermediates/res/merged/debug/layout_iatdemo.xml.flat",
+        "source": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/src/main/res/layout/iatdemo.xml"
+    },
+    {
+        "merged": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/build/intermediates/res/merged/debug/layout_isrdemo.xml.flat",
+        "source": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/src/main/res/layout/isrdemo.xml"
+    },
+    {
+        "merged": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/build/intermediates/res/merged/debug/drawable_main_setting_btn_np.xml.flat",
+        "source": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/src/main/res/drawable/main_setting_btn_np.xml"
+    },
+    {
+        "merged": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/build/intermediates/res/merged/debug/xml_understand_setting.xml.flat",
+        "source": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/src/main/res/xml/understand_setting.xml"
+    },
+    {
+        "merged": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/build/intermediates/res/merged/debug/layout_main.xml.flat",
+        "source": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/build/intermediates/res/merged/debug/layout_isvdemo.xml.flat",
+        "source": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/src/main/res/layout/isvdemo.xml"
+    },
+    {
+        "merged": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/build/intermediates/res/merged/debug/layout_title.xml.flat",
+        "source": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/src/main/res/layout/title.xml"
+    },
+    {
+        "merged": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/build/intermediates/res/merged/debug/drawable_list_bg_color.xml.flat",
+        "source": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/src/main/res/drawable/list_bg_color.xml"
+    },
+    {
+        "merged": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat",
+        "source": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/build/intermediates/res/merged/debug/layout_understander.xml.flat",
+        "source": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/src/main/res/layout/understander.xml"
+    },
+    {
+        "merged": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/build/intermediates/res/merged/debug/layout_isedemo.xml.flat",
+        "source": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/src/main/res/layout/isedemo.xml"
+    },
+    {
+        "merged": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/build/intermediates/res/merged/debug/drawable_setting.png.flat",
+        "source": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/src/main/res/drawable/setting.png"
+    },
+    {
+        "merged": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/build/intermediates/res/merged/debug/drawable-hdpi_icon.png.flat",
+        "source": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/build/intermediates/res/merged/debug/xml_ise_settings.xml.flat",
+        "source": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/src/main/res/xml/ise_settings.xml"
+    },
+    {
+        "merged": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/build/intermediates/res/merged/debug/drawable-ldpi_icon.png.flat",
+        "source": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/src/main/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/build/intermediates/res/merged/debug/drawable_setting_p.png.flat",
+        "source": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/src/main/res/drawable/setting_p.png"
+    },
+    {
+        "merged": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/build/intermediates/res/merged/debug/drawable-hdpi_no_photo.png.flat",
+        "source": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/src/main/res/drawable-hdpi/no_photo.png"
+    },
+    {
+        "merged": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/build/intermediates/res/merged/debug/layout_ttsdemo.xml.flat",
+        "source": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/src/main/res/layout/ttsdemo.xml"
+    },
+    {
+        "merged": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/build/intermediates/res/merged/debug/layout_list_items.xml.flat",
+        "source": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/src/main/res/layout/list_items.xml"
+    },
+    {
+        "merged": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/build/intermediates/res/merged/debug/xml_iat_setting.xml.flat",
+        "source": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/src/main/res/xml/iat_setting.xml"
+    },
+    {
+        "merged": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/build/intermediates/res/merged/debug/xml_tts_setting.xml.flat",
+        "source": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/src/main/res/xml/tts_setting.xml"
+    },
+    {
+        "merged": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/build/intermediates/res/merged/debug/layout_online_facedemo.xml.flat",
+        "source": "/Users/emery/Downloads/Android_voice_1125_5a03ea6e/sample/speechDemo/src/main/res/layout/online_facedemo.xml"
+    }
+]
